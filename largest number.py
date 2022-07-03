@@ -1,9 +1,5 @@
 # Python program to find the largest number among the three input numbers
-import math
-import sys
-from os import rename
 
-import requests
 
 # change the values of num1, num2 and num3
 # for a different result
